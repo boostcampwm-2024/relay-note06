@@ -65,27 +65,31 @@
 > **7/22(월) - console.log 안쓰기**
 > 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a95478cd-3441-47eb-8a96-50ebaf2bb514/b54f811e-958f-4321-85bf-ae62b45eafb3/Untitled.png)
+![image](https://github.com/user-attachments/assets/be883fcd-02d8-471f-a68f-fa8d5aa5c255)
+
 
 process.stdout.write를 사용하여 출력
 
 > **7/23(화) - Jest 안쓰기**
 > 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a95478cd-3441-47eb-8a96-50ebaf2bb514/d88be9f8-e481-426a-b316-e18c3706bd4a/Untitled.png)
+![image](https://github.com/user-attachments/assets/e6f6171b-5a41-4d61-961f-f3c2f17f79ba)
+
 
 mocha 프레임워크를 사용하여 테스트 진행
 
 > **7/24(수) - 반복문 안쓰기**
 > 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a95478cd-3441-47eb-8a96-50ebaf2bb514/d0c3535e-d7b5-4482-a30f-3327b9626495/Untitled.png)
+![image](https://github.com/user-attachments/assets/72f3183a-1917-46f7-9485-137a83cf8440)
+
 
 반복으로 동작을 수행해야 하는 경우 반복문 대신 재귀함수를 활용
 
 > **7/25(목) - 마우스 안쓰기**
 > 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a95478cd-3441-47eb-8a96-50ebaf2bb514/380bf5be-a6cd-4025-9750-6539aa1866ee/Untitled.png)
+![image](https://github.com/user-attachments/assets/68a6f93f-dfe6-4796-aef7-688aefb60d43)
+
 
 노트북의 터치패드 사용
