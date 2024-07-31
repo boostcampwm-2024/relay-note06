@@ -64,6 +64,7 @@
   - [ ] 화요일
   - [x] 수요일<br>
   : Git을.... 만들라구요...? 허허허허허허허허허허
+
   ![image](https://github.com/user-attachments/assets/50e89b89-d5dd-4ad5-842e-39d4d242ea67)
 
   - [ ] 목요일
