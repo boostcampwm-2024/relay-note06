@@ -84,7 +84,9 @@
   - [x] 화요일<br>
   : 팀원이 3명이라 9시까지 진행했다. 내일되는 짝설계도... 기대된다!<br>
   - [x] 수요일
-<img width="300" alt="스크린샷 2024-08-01 오전 10 01 50" src="https://github.com/user-attachments/assets/915b78a1-4764-4728-a5cd-1e0ce7c937da">  
+
+<img width="300" alt="스크린샷 2024-08-01 오전 10 01 50" src="https://github.com/user-attachments/assets/915b78a1-4764-4728-a5cd-1e0ce7c937da">
+
   : 오늘은 오히려 팀원이 3명이여서 다행이다... 의견수렴도 잘되어서 다행이다...<br>
   - [ ] 목요일
   - [ ] 금요일
