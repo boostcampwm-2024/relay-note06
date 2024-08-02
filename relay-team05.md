@@ -51,7 +51,11 @@
   - [x] 화요일
     ![image](https://github.com/user-attachments/assets/95e91915-8fc2-486f-a8b3-d19581c7a2c1)
     - 팀원분이 정리를 정말 잘하셨다.. 본받아야겠다는 생각이 들었다.
+      
   - [ ] 수요일
+    ![image](https://github.com/user-attachments/assets/247edf17-41a4-4093-aa70-9d941852cdb2)
+
+      
   - [ ] 목요일
   - [ ] 금요일
 
