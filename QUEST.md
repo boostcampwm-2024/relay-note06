@@ -2,6 +2,8 @@
 
 ## **퀘스트 1 : 이전의 설계와 오늘의 설계를 꼭 비교해봅시다!**
 
+<img src="https://github.com/user-attachments/assets/27255459-518c-4d8c-904d-d75f51d51399" width="300px" height="300px" />
+
 > 개발자 원칙 p148. “자신의 버전은 자기 스스로 올려야합니다.”
 > 
 
@@ -18,6 +20,8 @@
 <br>
 
 ## 퀘스트 2 : **본인이 왜 개발자가 된건지 생각해보기**
+
+<img src="https://github.com/user-attachments/assets/1100e513-cb70-49b1-a7a5-70b5a60f3cf9" width="300px" height="300px" />
 
 > 개발자 원칙 p42. “제가 그 부족한 부분을 채우게 되었을 때 훨씬 경쟁력 있고 사회적으로 가치 있는 일을 할 수 있는 회사를 선택하기로 했습니다.”
 
@@ -36,6 +40,8 @@
 <br>
 
 ## 퀘스트 3 : **오늘 달성 가능한 소소한 목표 세우고 실천 계획, 실천, 평가하기**
+
+<img src="https://github.com/user-attachments/assets/1ee506f8-385b-4a68-9494-d1aacc1aede4" width="300px" height="300px" />
 
 > 개발자원칙 p172 “평가를 하면’ 목표 대비 조금만 더 하면 되겠어, 드디어 목표를 달성했어’처럼 도전의식과 성취감을 얻을 수 있습니다.”
 
@@ -56,6 +62,9 @@ ex) 오늘 운동을 할거야! → 8시에 헬스장에 가기 위해서 7시�
 
 ## 퀘스트 4 : **하루에 `1개` 새로운 시도하기**
 
+<img src="https://github.com/user-attachments/assets/3c659764-58d8-45a9-b218-e6a5a93864cd" width="300px" height="300px" />
+
+
 > 개발자 원칙 p128. “익숙한 것을 반복하면 더 오래 기억할 수 있게 되지만 성장하지는 못합니다.”
 
 익숙함에서 벗어나 새로운 것에 도전해야 성장할 수 있다.
@@ -73,7 +82,7 @@ ex) 오늘 운동을 할거야! → 8시에 헬스장에 가기 위해서 7시�
 
 ## 퀘스트 5 :  **매일 하루를 보내며 느낀 점 짧게 적어보기**
 
-![image](https://github.com/user-attachments/assets/9356e0c6-0924-4f26-8cbf-24eecced284e)
+<img src="https://github.com/user-attachments/assets/9356e0c6-0924-4f26-8cbf-24eecced284e" width="300px" height="300px" />
 
 > 개발자원칙 p. 43 “이런 연대를 결심하게 된 것은 앞으로 어떤 일을 할지 고민하면서 청계천을 걸어가다가 문득 발견한 도종환 시인의 <담쟁이> 덕이었습니다.”
 
@@ -87,9 +96,9 @@ ex) 오늘 운동을 할거야! → 8시에 헬스장에 가기 위해서 7시�
 <hr>
 <br>
 
-
-
 ## **퀘스트 6 : 오늘 미션에서 나온 CS지식 중 ‘알고 있다고 생각하는 것’을 하나 골라서 설명해봅시다.**
+
+<img src="https://github.com/user-attachments/assets/53c63ee9-22e7-433a-adbc-5dec90927eee" width="300px" height="300px" />
 
 > 개발자원칙 p79. “디자인을 한국말로 하면 무엇인가요?라고 묻습니다. 열에 한명 정도만 이 질문에 답을 합니다.”
 > 
