@@ -4,10 +4,15 @@
 ### _**진행중인 퀘스트**_<br>
   퀘스트 1 : 하루에 한번 피어 컴파일링 때, 짝 코드를 확인할 때, 코드의 커밋 로그 꼭 확인하기!
 
-  - [ ] 월요일
+  - [x] 월요일
+
+![image](https://github.com/user-attachments/assets/46a2810b-57c2-425b-9a8d-d0cae7662200)
+
   - [ ] 화요일
   - [ ] 수요일
-  - [ ] 목요일
+  - [x] 목요일
+      
+![image](https://github.com/user-attachments/assets/2dbe2231-4d67-4c35-8ff6-c69d92b771c5)
   - [ ] 금요일
 
 <br>
