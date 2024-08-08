@@ -36,3 +36,21 @@
     - 어젯밤에 설계왕이 되는 꿈을 꾸어서 선택했습니다.
 
 # 수행결과
+
+- J252_최경일 -> **이전의 설계와 오늘의 설계를 꼭 비교해봅시다!**
+
+    - 확실히 혼자할 때보다 같이 할 때 더 열심히 설계했던 것 같습니다... ㅎㅎ 그래도 더 나은 설계를 하는것을 의식하고 흐름도도 더 상세히 해보고, ERD까지 추가해 봤습니다 ㅎㅎ
+
+    - 월요일 설계
+        
+        ![355021619-7dcf6055-dc9c-49b3-a3cf-7c9220477693](https://github.com/user-attachments/assets/e253a3d9-3767-4045-8d4d-e17a498ebf9e)
+
+    - 수요일 설계
+        
+        ![355939720-98afef22-78ae-48d2-8d87-c0c261fdf25d](https://github.com/user-attachments/assets/bf4f66db-bfbc-419e-90d8-fa8c05071936)
+        ![355733703-e424f64d-1283-4b93-92cc-8b0240cb1749](https://github.com/user-attachments/assets/87517976-8aa8-4ffd-8125-32aa270a833f)
+        ![355906726-92a70bb9-0aba-4921-bfc3-d8940dcf2201](https://github.com/user-attachments/assets/8ccc681d-06df-41ba-93b1-0c08dd9a7e88)
+
+      
+
+
